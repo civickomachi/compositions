@@ -10,7 +10,7 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 1. Fragrant olives in the rainy season / 梅雨の金木犀
 1. Freedom is slavery
 
-# Sonata in E minor (2019-2020)
+# Sonata in E minor (2018-2020)
 
 * [SCORE[PDF]](https://github.com/civickomachi/Sonata_in_E_minor/blob/master/buildfiles/Sonata_in_E_minor.pdf)
 * [Performace](https://www.youtube.com/watch?v=WDQQBgGIge4)
