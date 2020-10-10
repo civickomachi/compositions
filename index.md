@@ -2,7 +2,8 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 
 # Wharf / 波止場 (2020)
 
-*now writing*
+* [SCORE[PDF]](https://github.com/civickomachi/wharf/blob/master/buildfiles/wharf.pdf)
+
 
 # Impressions (2020)
 
