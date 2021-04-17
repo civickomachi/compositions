@@ -1,5 +1,10 @@
 Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my compositions and arrangements. Some of these pieces are played by myself on [my YouTube channel](https://www.youtube.com/channel/UCxHl0Jc2CnznF_XmHYugdZw).
 
+# Prelude and fugue based on limited indeterminacy / 限られた不確定性に基づく前奏曲とフーガ (2021)
+* [Performance notes](https://github.com/civickomachi/prelude_and_fugue/blob/main/buildfiles/notes.pdf)
+* [SCORE[PDF]](https://github.com/civickomachi/prelude_and_fugue/blob/main/buildfiles/prelude_and_fugue.pdf)
+* [Sample performance](https://youtu.be/weyoxwEyKOU)
+
 # Evanescence (2020)
 
 * [SCORE[PDF]](https://github.com/civickomachi/evanescence/blob/main/buildfiles/evanescence.pdf)
