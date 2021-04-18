@@ -5,6 +5,11 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 * [SCORE[PDF]](https://github.com/civickomachi/prelude_and_fugue/blob/main/buildfiles/prelude_and_fugue.pdf)
 * [Sample performance](https://youtu.be/weyoxwEyKOU)
 
+# 【ピアノソロ編曲】堀未央奈『冷たい水の中』 (2020)
+* [原曲 (MV)](https://www.youtube.com/watch?v=kj8kpQhiZpM&t=0s)
+* [楽譜 (手書きスケッチ)](https://github.com/civickomachi/transcriptions/blob/master/tsumetaimizunonaka/tsumetai_mizuno_naka_sketch.pdf)
+* [演奏](https://www.youtube.com/watch?v=LDxhaCEAcbo)
+
 # Evanescence (2020)
 
 * [SCORE[PDF]](https://github.com/civickomachi/evanescence/blob/main/buildfiles/evanescence.pdf)
