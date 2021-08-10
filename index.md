@@ -1,5 +1,9 @@
 Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my compositions and arrangements. Some of these pieces are played by myself on [my YouTube channel](https://www.youtube.com/channel/UCxHl0Jc2CnznF_XmHYugdZw).
 
+# Before you say good night / ピアノのための短編集 - 「おやすみ」の前に - (2021)
+* [SCORE[PDF]](https://github.com/civickomachi/goodnight/blob/main/before_you_say_goodnight.pdf)
+* [Performance](https://www.youtube.com/watch?v=M7yG7mrM4VM)
+
 # Prelude and fugue based on limited indeterminacy / 限られた不確定性に基づく前奏曲とフーガ (2021)
 * [Performance notes](https://github.com/civickomachi/prelude_and_fugue/blob/main/buildfiles/notes.pdf)
 * [SCORE[PDF]](https://github.com/civickomachi/prelude_and_fugue/blob/main/buildfiles/prelude_and_fugue.pdf)
