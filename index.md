@@ -2,6 +2,7 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 
 # カバのカバン (2021)
 * [SCORE[Musescore link]](https://musescore.com/user/19143/scores/6995117)
+* [Performance](https://youtu.be/w9CavZ49w_g)
 
 # Before you say good night / ピアノのための短編集 - 「おやすみ」の前に - (2021)
 * [SCORE[PDF]](https://github.com/civickomachi/goodnight/blob/main/before_you_say_goodnight.pdf)
