@@ -1,5 +1,10 @@
 Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my compositions and arrangements. Some of these pieces are played by myself on [my YouTube channel](https://www.youtube.com/channel/UCxHl0Jc2CnznF_XmHYugdZw).
 
+# Sonata (2021)
+* [SCORE[Musescore link]](https://musescore.com/user/19143/scores/7318076)
+* MIDI playback video (to be updated)
+* Performance (to be updated)
+
 # カバのカバン (2021)
 * [SCORE[Musescore link]](https://musescore.com/user/19143/scores/6995117)
 * [Performance](https://youtu.be/w9CavZ49w_g)
