@@ -2,7 +2,7 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 
 # Sonata (2021)
 * [SCORE[Musescore link]](https://musescore.com/user/19143/scores/7318076)
-* MIDI playback video (to be updated)
+* [MIDI playback video] (https://youtu.be/2Y-AkVBvxig)
 * Performance (to be updated)
 
 # カバのカバン (2021)
