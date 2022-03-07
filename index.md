@@ -1,5 +1,9 @@
 Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my compositions and arrangements. Some of these pieces are played by myself on [my YouTube channel](https://www.youtube.com/channel/UCxHl0Jc2CnznF_XmHYugdZw).
 
+# Dawn of the crested gecko / クレステッドゲッコーの夜明け (2022)
+* [SCORE[Manuscript]](https://github.com/civickomachi/gecko/blob/main/gecko.pdf)
+* [Performance](https://youtu.be/GLL7G6ScY2M)
+
 # Piglet's dream / 子豚の見た夢 (2022)
 A seven-part rondo in F major for the piano solo. Composed from Feb. 12, 2022 - Feb. 16, 2022.
 * [SCORE[Manuscript]](https://github.com/civickomachi/piglet/blob/main/Piglet's_dream.pdf)
