@@ -1,5 +1,8 @@
 Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my compositions and arrangements. Some of these pieces are played by myself on [my YouTube channel](https://www.youtube.com/channel/UCxHl0Jc2CnznF_XmHYugdZw).
 
+# Alice (2022)
+* [SCORE[Musescore]](https://musescore.com/user/19143/scores/8193074)
+
 # Zephyr in Amber / 琥珀色のそよ風 (2022)
 * [SCORE[Manuscript]](https://github.com/civickomachi/amber/blob/main/Zephyr_in_Amber.pdf)
 * [Performance](https://youtu.be/EsOFxGna27E)
