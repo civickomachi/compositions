@@ -2,6 +2,14 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 
 * [Playlist of my compositions on YouTube](https://www.youtube.com/watch?v=9A70oebiDk4&list=PLpPCCM3Tua2R-ermxj_p_u0be5awSs71o)
 
+# From the Microcosmos / ミクロコスモスより (2023)
+* [SCORE[Musescore]](https://musescore.com/user/19143/scores/10242406?share=copy_link)
+* Performance (to be updated)
+
+# Cosmos (2023)
+* [SCORE[Musescore]](https://musescore.com/user/19143/scores/9491701/s/wR19OU?share=copy_link)
+* [Performance](https://youtu.be/co2LvOHMif8)
+
 # Alice (2022)
 * [SCORE[Musescore]](https://musescore.com/user/19143/scores/8193074)
 * [Performance](https://youtu.be/03B4Mc-5fCU)
