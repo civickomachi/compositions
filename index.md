@@ -25,6 +25,7 @@ Welcome to Naoya Ozawa's music portfolio. I will post the scores for some of my 
 # Piglet's dream / 子豚の見た夢 (2022)
 A seven-part rondo in F major for the piano solo. Composed from Feb. 12, 2022 - Feb. 16, 2022.
 * [SCORE[Manuscript]](https://github.com/civickomachi/piglet/blob/main/Piglet's_dream.pdf)
+* [SCORE[Piascore]](https://store.piascore.com/scores/201097)
 * [Performance](https://youtu.be/MVo3TLth_Q0)
 
 # Sonata (2021)
